@@ -1,14 +1,13 @@
 
 .header{
-    display: flex; 
+    display: flex;  
     justify-content:flex-end;
     background-color: rgb(9, 9, 87);
     font-size: 26px;
     font-family: 'Source Sans Pro';
     color: rgb(255, 255, 255);
     justify-content: space-around;
-    position: sticky;
-    top:50;
+    margin: 0px;
     
 }
 .fixed-header{
